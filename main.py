@@ -8,9 +8,9 @@ from utils.utils import rivals2_plot, rivals2_line_plot, generate_leaderboard
 XML_CACHE = './cache/xml/'
 DF_CACHE = './cache/df.pkl'
 
-# Rivals 2, ranked lite ids
+# Rivals 2, spring 2025 leaderboard ids
 GAME_ID = '2217000'
-LEADERBOARD_ID = '14800950'
+LEADERBOARD_ID = '16200142'
 
 
 def download_xml():
